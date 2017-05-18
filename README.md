@@ -23,17 +23,17 @@
    * Good practices (don't leak infrastructure info, IPs, stack-traces, etc.)
 
 ## [RESOURCES]
-	* https://www.troyhunt.com/ - covers ...
-	* https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project
+ * https://www.troyhunt.com/ - covers ...
+ * https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project
 
 ## [BADGES]
-  * 
+ * 
 
 ## [EXPERIENCE SUGGESTIONS]
-	* 
+ * 
 
 ## [ADVENTURER NOTES]
-	* https://twitter.com/SwiftOnSecurity
-	* https://cybermap.kaspersky.com/
+ * https://twitter.com/SwiftOnSecurity
+ * https://cybermap.kaspersky.com/
 
 ## [THE CAIRN]
