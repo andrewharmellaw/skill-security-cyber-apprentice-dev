@@ -1,7 +1,7 @@
 # SKILL: Security and Cyber Concepts (Apprentice Developer)
 
 ## [PRE-REQUISITES]
- * Networking - HTTP/HTTPS and Web Server (Apprentice Developer) [https://github.com/andrewharmellaw/skill-networking-apprentice-dev]
+ * [Networking - HTTP/HTTPS and Web Server (Apprentice Developer)](https://github.com/andrewharmellaw/skill-networking-apprentice-dev)
 
 ## [TOPICS]
  * Auth.n and Auth.z
@@ -16,7 +16,7 @@
    * SSL and HTTPS
    * Hashing and Salting (MD5, SHA-1, SHA-256 etc.)
  * Cyber Security
-   * XSS 
+   * XSS
    * Cross-site request forgery
    * SQL-Injection
    * OWASP Top Ten of Web Vulnerabilities
@@ -27,10 +27,10 @@
  * https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project
 
 ## [BADGES]
- * 
+ *
 
 ## [EXPERIENCE SUGGESTIONS]
- * 
+ *
 
 ## [ADVENTURER NOTES]
  * https://twitter.com/SwiftOnSecurity
