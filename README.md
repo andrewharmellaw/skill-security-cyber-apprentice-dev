@@ -1,7 +1,7 @@
 # SKILL: Security and Cyber Concepts (Apprentice Developer)
 
 ## [PRE-REQUISITES]
- * [Networking - HTTP/HTTPS and Web Server (Apprentice Developer)](https://github.com/andrewharmellaw/skill-networking-apprentice-dev)
+ * [Networking - HTTP/HTTPS and Web Server (Apprentice Developer)](https://andrewharmellaw.github.io/quest-dist-sys-eng-java-apprentice/skill-networking-apprentice-dev)
 
 ## [TOPICS]
  * Auth.n and Auth.z
